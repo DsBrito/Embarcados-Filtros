@@ -24,7 +24,6 @@ Processamento de Imagem com filtros Gradiente/ Passa Alta/ Passa Baixa
 ;           tomando-se como base o programa “tecbuf.asm”                            ;
 ;       12) Deve ser implementado 5 diferentes velocidades da bolinha.              ;
 ;       13)O jogo deve ser iniciado na velocidade mais baixa.                       ;
-;                                     												;
 ;                                                                                  	; 
 ;       Tabela 1:         Tabela de Cores modo VGA 640×480                          ;
 ;                            Preto 0    ~   Cinza 8                                 ;
